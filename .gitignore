@@ -118,3 +118,5 @@ env/
 venv/
 
 config.py
+
+data.pickle
